@@ -1,4 +1,7 @@
-# api documentation for  [d (v1.0.0)](https://github.com/medikoo/d#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-d.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-d) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-d.svg)](https://travis-ci.org/npmdoc/node-npmdoc-d)
+# npmdoc-d
+
+#### api documentation for  [d (v1.0.0)](https://github.com/medikoo/d#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-d.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-d) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-d.svg)](https://travis-ci.org/npmdoc/node-npmdoc-d)
+
 #### Property descriptor factory
 
 [![NPM](https://nodei.co/npm/d.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/d)
